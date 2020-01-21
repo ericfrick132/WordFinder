@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\frick\\wordfinder\\WordFinder\\WordFinder\\WordFinder.csproj": {}
+  },
+  "projects": {
+    "C:\\frick\\wordfinder\\WordFinder\\WordFinder\\WordFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\frick\\wordfinder\\WordFinder\\WordFinder\\WordFinder.csproj",
+        "projectName": "WordFinder",
+        "projectPath": "C:\\frick\\wordfinder\\WordFinder\\WordFinder\\WordFinder.csproj",
+        "packagesPath": "C:\\Users\\frick\\.nuget\\packages\\",
+        "outputPath": "C:\\frick\\wordfinder\\WordFinder\\WordFinder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\frick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Gitlab\\localnugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://s059d575.kapsch.ar:8081/repository/nuget-hosted-abudhabi-53/": {},
+          "http://s059d575:8081/repository/nuget-platform-group-53": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

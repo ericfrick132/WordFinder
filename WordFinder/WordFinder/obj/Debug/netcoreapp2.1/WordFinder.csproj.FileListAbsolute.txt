@@ -1,0 +1,11 @@
+C:\frick\wordfinder\WordFinder\WordFinder\bin\Debug\netcoreapp2.1\WordFinder.deps.json
+C:\frick\wordfinder\WordFinder\WordFinder\bin\Debug\netcoreapp2.1\WordFinder.runtimeconfig.json
+C:\frick\wordfinder\WordFinder\WordFinder\bin\Debug\netcoreapp2.1\WordFinder.runtimeconfig.dev.json
+C:\frick\wordfinder\WordFinder\WordFinder\bin\Debug\netcoreapp2.1\WordFinder.dll
+C:\frick\wordfinder\WordFinder\WordFinder\obj\Debug\netcoreapp2.1\WordFinder.csprojAssemblyReference.cache
+C:\frick\wordfinder\WordFinder\WordFinder\obj\Debug\netcoreapp2.1\WordFinder.csproj.CoreCompileInputs.cache
+C:\frick\wordfinder\WordFinder\WordFinder\obj\Debug\netcoreapp2.1\WordFinder.AssemblyInfoInputs.cache
+C:\frick\wordfinder\WordFinder\WordFinder\obj\Debug\netcoreapp2.1\WordFinder.AssemblyInfo.cs
+C:\frick\wordfinder\WordFinder\WordFinder\bin\Debug\netcoreapp2.1\WordFinder.pdb
+C:\frick\wordfinder\WordFinder\WordFinder\obj\Debug\netcoreapp2.1\WordFinder.dll
+C:\frick\wordfinder\WordFinder\WordFinder\obj\Debug\netcoreapp2.1\WordFinder.pdb
